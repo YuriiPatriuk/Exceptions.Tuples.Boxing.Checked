@@ -1,0 +1,12 @@
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\bin\Debug\netcoreapp3.1\Boxing.Unboxing.exe
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\bin\Debug\netcoreapp3.1\Boxing.Unboxing.deps.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\bin\Debug\netcoreapp3.1\Boxing.Unboxing.runtimeconfig.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\bin\Debug\netcoreapp3.1\Boxing.Unboxing.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\bin\Debug\netcoreapp3.1\Boxing.Unboxing.dll
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\bin\Debug\netcoreapp3.1\Boxing.Unboxing.pdb
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\obj\Debug\netcoreapp3.1\Boxing.Unboxing.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\obj\Debug\netcoreapp3.1\Boxing.Unboxing.AssemblyInfo.cs
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\obj\Debug\netcoreapp3.1\Boxing.Unboxing.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\obj\Debug\netcoreapp3.1\Boxing.Unboxing.dll
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\obj\Debug\netcoreapp3.1\Boxing.Unboxing.pdb
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Boxing.Unboxing\obj\Debug\netcoreapp3.1\Boxing.Unboxing.genruntimeconfig.cache

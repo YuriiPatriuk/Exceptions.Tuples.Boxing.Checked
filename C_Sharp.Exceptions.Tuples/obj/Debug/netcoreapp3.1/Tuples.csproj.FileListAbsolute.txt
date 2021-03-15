@@ -1,0 +1,12 @@
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\bin\Debug\netcoreapp3.1\Tuples.exe
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\bin\Debug\netcoreapp3.1\Tuples.deps.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\bin\Debug\netcoreapp3.1\Tuples.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\bin\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\bin\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\obj\Debug\netcoreapp3.1\Tuples.AssemblyInfo.cs
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\obj\Debug\netcoreapp3.1\Tuples.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\obj\Debug\netcoreapp3.1\Tuples.dll
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\obj\Debug\netcoreapp3.1\Tuples.pdb
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\C_Sharp.Exceptions.Tuples\obj\Debug\netcoreapp3.1\Tuples.genruntimeconfig.cache

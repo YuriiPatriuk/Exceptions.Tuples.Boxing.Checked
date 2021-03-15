@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.AssemblyInfo.cs
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\bin\Debug\netcoreapp3.1\Exception_Practise.exe
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\bin\Debug\netcoreapp3.1\Exception_Practise.deps.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\bin\Debug\netcoreapp3.1\Exception_Practise.runtimeconfig.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\bin\Debug\netcoreapp3.1\Exception_Practise.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\bin\Debug\netcoreapp3.1\Exception_Practise.dll
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\bin\Debug\netcoreapp3.1\Exception_Practise.pdb
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.dll
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.pdb
+C:\Users\dev\Desktop\C_Sharp.Exceptions.Tuples\Exception_Practise\obj\Debug\netcoreapp3.1\Exception_Practise.genruntimeconfig.cache
